@@ -1,2 +1,3 @@
 # CSIT7th
-for teaching
+for lab
+
