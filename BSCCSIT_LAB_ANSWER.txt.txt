@@ -1,0 +1,5 @@
+git clone
+ls
+cd CSIT7th
+git checkout -b BSCCSIT_LAB_TEST
+creating a file
